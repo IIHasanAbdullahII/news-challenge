@@ -1,16 +1,18 @@
-# clean_architecture_2
-
-A new Flutter project.
+# Flutter News Challenge App with BLoC/Cubit Architecture
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone this project
+- Run flutter pub get
+- Run `flutter pub run build_runner build --delete-conflicting-outputs` or `dart run build_runner build --delete-conflicting-outputs` to generate freezes files
 
-A few resources to get you started if this is your first Flutter project:
+## Feature
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - [x] BLoC State Management
+ - [x] Clean Architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Android
+
+https://github.com/IIHasanAbdullahII/news-challenge/assets/148042454/788fbe36-0cfc-4e43-8611-6cc51c3f229a
+
+
